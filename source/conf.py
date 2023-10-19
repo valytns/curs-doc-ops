@@ -22,7 +22,8 @@ extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
     "sphinx.ext.intersphinx",
-    "recommonmark"
+    "recommonmark",
+    "sphinx.ext.githubpages"
 ]
 
 templates_path = ['_templates']
