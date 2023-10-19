@@ -6,9 +6,25 @@
 Welcome to Curs Doc as Code's documentation!
 ============================================
 
+**Valentin Tanasi**
+
+*Angajat*
+
+:Things I enjoy:
+   - snowboard
+   - boardgames
+   - festivals
+   
+:Favorite tv shows:
+   #. Mr Robot
+   #. Game of Thrones
+
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
 
 
 
