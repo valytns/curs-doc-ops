@@ -19,14 +19,20 @@ Welcome to Curs Doc as Code's documentation!
    #. Mr Robot
    #. Game of Thrones
 
+.. code-block:: bash
+   :lineos: 
 
+   cd home
+   cp build docs
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+.. toctree::
+   :caption: Pagina de test
 
-
+   test
 
 Indices and tables
 ==================
